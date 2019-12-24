@@ -1,0 +1,2 @@
+f 0755 root user sbin/sh mksh/mksh patchXX00001.eoe.sw norqs
+f 0644 root user usr/share/catman/u_man/cat1/sh.z mksh.z patchXX00001.eoe.man norqs
